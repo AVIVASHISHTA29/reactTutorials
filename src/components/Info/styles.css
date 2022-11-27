@@ -1,0 +1,16 @@
+.info-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 1rem 1.5rem;
+}
+
+.info-left {
+  width: 50%;
+}
+
+.logo {
+  width: 40vw;
+  display: block;
+  margin-left: auto;
+}
